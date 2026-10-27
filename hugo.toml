@@ -1,0 +1,88 @@
+baseURL = "https://antonkoshuba.ru/"
+title = "Антон Кошуба"
+theme = "init"
+defaultContentLanguage = "ru"
+locale = "ru-RU"
+enableRobotsTXT = true
+capitalizeListTitles = false   # теги как есть: «жизнь», а не «Жизнь»
+
+# json на главной — индекс для поиска
+[outputs]
+  home = ["html", "json"]
+  section = ["html", "rss"]
+  taxonomy = ["html"]
+  term = ["html"]
+
+# Адреса заметок сохранены со старого сайта
+[permalinks.page]
+  blog = "/blog/all/:slug/"
+  hd = "/hd/all/:slug/"
+[permalinks.term]
+  blogtags = "/blog/tags/:slug/"
+  hdtags = "/hd/tags/:slug/"
+[permalinks.taxonomy]
+  blogtags = "/blog/tags/"
+  hdtags = "/hd/tags/"
+
+# У каждого раздела свои теги: таксономия называется <раздел>tags
+[taxonomies]
+  blogtag = "blogtags"
+  hdtag = "hdtags"
+
+# «Похожие заметки» — по общим тегам
+[related]
+  includeNewer = true
+  threshold = 50
+  toLower = true
+  [[related.indices]]
+    name = "blogtags"
+    weight = 100
+  [[related.indices]]
+    name = "hdtags"
+    weight = 100
+
+[params]
+  author = "Антон Кошуба"
+  description = "IT-редактор, дата-журналист. Пишу об ИИ, цифровом суверенитете, OSINT и технологиях."
+  mainSections = ["blog"]   # заметки этих разделов — на главной и в поиске
+  avatar = "/blog/pictures/userpic/userpic@2x.jpg"
+  avatarSquare = "/blog/pictures/userpic/userpic-square@2x.jpg"
+  homeAvatar = "/blog/pictures/userpic/userpic-home@2x.jpg"   # крупное фото на главной
+  images = ["/blog/pictures/userpic/userpic-large@2x.jpg"]
+  search = true
+  toc = true
+  copyCodeButton = true
+  [params.highlight]
+    style = "github"
+  [params.social]
+    telegram = "https://t.me/redaktornapisal"
+
+[[menu.main]]
+  name = "Блог"
+  url = "/blog/"
+  weight = 1
+[[menu.main]]
+  name = "GitHub"
+  url = "https://github.com/it-publisher"
+  weight = 2
+[[menu.main]]
+  name = "Телеграм-канал"
+  url = "https://t.me/redaktornapisal"
+  weight = 3
+
+# G-Проектор — только по прямой ссылке: нет на главной, в меню и поиске,
+# закрыт от поисковиков и карты сайта
+[[cascade]]
+  [cascade.params]
+    robots = "noindex"
+  [cascade.sitemap]
+    disable = true
+  [cascade.target]
+    path = "{/hd,/hd/**,/hdtags,/hdtags/**}"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true   # в заметках есть сырой HTML: figure, audio, iframe
+  [markup.highlight]
+    noClasses = false   # подсветка классами — для тёмной темы
+    lineNos = false     # иначе копирование возьмёт номера строк

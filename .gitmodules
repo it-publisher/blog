@@ -1,0 +1,3 @@
+[submodule "themes/init"]
+	path = themes/init
+	url = https://github.com/it-publisher/hugo-init.git
