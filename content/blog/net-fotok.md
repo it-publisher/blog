@@ -10,7 +10,7 @@ blogtags:
 ---
 
 <figure>
-<img src="/blog/pictures/53.jpg" alt="prada">
+<img src="static/blog/pictures/53.jpg" alt="prada">
 <figcaption></figcaption>
 </figure>
 
