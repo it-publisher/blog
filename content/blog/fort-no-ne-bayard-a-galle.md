@@ -2,6 +2,9 @@
 title: "Форт, но не Баярд, а Галле"
 date: 2024-09-18T11:32:51+05:00
 slug: "fort-no-ne-bayard-a-galle"
+blogtags:
+  - "мир живых людей"
+  - "путешествия"
 aegea_id: 44
 ---
 
