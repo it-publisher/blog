@@ -5,11 +5,10 @@ slug: "ajina-centre"
 aliases:
   - /hd/all/opredelenny-centr-adzhna-ot-geniya-do-frika/
 hdtags:
-  - "Аджна"
-  - "Дизайн Человека"
-  - "Личный опыт"
+  - "аджна"
+  - "дизайн человека"
+  - "личный опыт"
 featured: true
-aegea_id: 10
 ---
 
 *Местное время 23:43, в Петропавловске-Камчатском полночь*

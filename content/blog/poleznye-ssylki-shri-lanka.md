@@ -4,7 +4,6 @@ date: 2024-09-20T11:33:33+05:00
 slug: "poleznye-ssylki-shri-lanka"
 blogtags:
   - "путешествия"
-aegea_id: 45
 ---
 
 Чаты Шри-Ланки  

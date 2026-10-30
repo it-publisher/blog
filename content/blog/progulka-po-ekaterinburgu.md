@@ -6,7 +6,6 @@ aliases:
   - /hd/all/ekaterinburg/
 blogtags:
   - "мир живых людей"
-aegea_id: 1
 ---
 
 Люблю этот город  

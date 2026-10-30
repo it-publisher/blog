@@ -5,11 +5,10 @@ slug: "g-centre"
 aliases:
   - /hd/all/opredelenny-dzhi-centr-all-people-need-is-love/
 hdtags:
-  - "Джи центр"
-  - "Дизайн Человека"
-  - "Личный опыт"
+  - "джи центр"
+  - "дизайн человека"
+  - "личный опыт"
 featured: true
-aegea_id: 14
 ---
 
 > Во всём виноват магнитный Монополь

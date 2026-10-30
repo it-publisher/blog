@@ -5,10 +5,9 @@ slug: "head-centre"
 aliases:
   - /hd/all/neopredelenny-golovnoy-centr-vdohnovenie-i-otvety-na-chuzhie-vop/
 hdtags:
-  - "Головной центр"
-  - "Дизайн Человека"
-  - "Личный опыт"
-aegea_id: 9
+  - "головной центр"
+  - "дизайн человека"
+  - "личный опыт"
 ---
 
 *Привет, я Антон.*

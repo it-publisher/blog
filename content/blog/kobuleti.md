@@ -6,7 +6,6 @@ aliases:
   - /blog/all/portfolio-gayd-dlya-turistov-i-immigrantov-v-gruzii/
 blogtags:
   - "портфолио"
-aegea_id: 12
 ---
 
 ## **Ситуация и проблема**

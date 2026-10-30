@@ -5,8 +5,7 @@ slug: "trudnosti"
 aliases:
   - /hd/all/iz-vechernego-razgovora-s-prekrasnym-manifestiruyuschim-generato/
 hdtags:
-  - "Мир людей"
-aegea_id: 23
+  - "мир людей"
 ---
 
 *Из вечернего разговора с прекрасным Манифестирующим Генератором про то, как делиться опытом*

@@ -6,7 +6,6 @@ aliases:
   - /blog/all/podborka-neyronok-na-vse-sluchai-zhizni/
 blogtags:
   - "ИИ"
-aegea_id: 46
 ---
 
 От генерации текстов до создания миров.

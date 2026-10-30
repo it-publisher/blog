@@ -5,7 +5,6 @@ slug: "a-href-ego-znaet"
 blogtags:
   - "веб"
   - "редактура"
-aegea_id: 22
 ---
 
 <figure>

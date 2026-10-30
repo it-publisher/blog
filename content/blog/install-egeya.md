@@ -4,7 +4,6 @@ date: 2024-07-28T14:52:04+04:00
 slug: "install-egeya"
 blogtags:
   - "веб"
-aegea_id: 27
 ---
 
 На примере хостинга [Мастерхост](https://masterhost.ru/)

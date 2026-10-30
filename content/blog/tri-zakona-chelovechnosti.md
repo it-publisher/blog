@@ -6,7 +6,6 @@ aliases:
   - /hd/all/tri-zakona-chelovechnosti/
 blogtags:
   - "мир живых людей"
-aegea_id: 8
 ---
 
 В любом техническом музее предсказуемо есть зал с роботами.

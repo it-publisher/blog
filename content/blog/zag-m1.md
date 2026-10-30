@@ -7,7 +7,6 @@ aliases:
 blogtags:
   - "веб"
   - "визуал"
-aegea_id: 25
 ---
 
 Читал [статью про программирование на макбуках](https://mac.org.ua/blog/testing-macbook-m1-for-programming/), а нашел хороший пример заголовка диаграммы.

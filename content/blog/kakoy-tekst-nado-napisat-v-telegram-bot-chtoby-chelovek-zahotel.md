@@ -5,7 +5,6 @@ slug: "kakoy-tekst-nado-napisat-v-telegram-bot-chtoby-chelovek-zahotel"
 blogtags:
   - "редактура"
   - "текст"
-aegea_id: 10
 ---
 
 **Семён:**  
