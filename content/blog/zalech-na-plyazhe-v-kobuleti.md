@@ -4,6 +4,7 @@ date: 2024-05-23T13:33:47+04:00
 slug: "zalech-na-plyazhe-v-kobuleti"
 blogtags:
   - "мир"
+  - "путешествия"
 aegea_id: 24
 ---
 

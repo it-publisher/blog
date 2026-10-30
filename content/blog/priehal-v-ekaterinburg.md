@@ -2,6 +2,7 @@
 title: "Приехал в Екатеринбург"
 date: 2019-01-14T09:55:00+05:00
 slug: "priehal-v-ekaterinburg"
+blogtags: - "мир живых людей"
 aegea_id: 36
 ---
 

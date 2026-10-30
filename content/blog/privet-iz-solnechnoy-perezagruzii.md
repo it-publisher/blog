@@ -2,6 +2,9 @@
 title: "Привет из солнечной перезаГрузии"
 date: 2024-04-26T10:19:47+05:00
 slug: "privet-iz-solnechnoy-perezagruzii"
+blogtags:
+  - "мир живых людей"
+  - "путешествия"
 aegea_id: 42
 ---
 

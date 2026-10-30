@@ -2,6 +2,8 @@
 title: "Забота о себе"
 date: 2021-08-20T09:59:00+05:00
 slug: "zabota-o-sebe"
+blogtags:
+  - "мир живых людей"
 aegea_id: 39
 ---
 

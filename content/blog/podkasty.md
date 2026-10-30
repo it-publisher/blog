@@ -2,6 +2,7 @@
 title: "Подкасты"
 date: 2020-07-28T09:56:00+05:00
 slug: "podkasty"
+blogtags: - "подкасты"
 aegea_id: 37
 ---
 
