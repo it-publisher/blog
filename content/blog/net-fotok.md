@@ -9,6 +9,11 @@ blogtags:
   - "редактура"
 ---
 
+<figure>
+<img src="/blog/pictures/53.jpg" alt="prada">
+<figcaption></figcaption>
+</figure>
+
 **Иногда бывает так:**
 
 — Привет, недавно из Египта вернулись. Так здорово было, такие закаты, очень красиво.
