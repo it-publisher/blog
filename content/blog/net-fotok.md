@@ -11,7 +11,7 @@ blogtags:
 
 <figure>
 <img src="static/blog/pictures/53.jpg" alt="prada">
-<figcaption></figcaption>
+<figcaption>Подпись</figcaption>
 </figure>
 
 **Иногда бывает так:**
