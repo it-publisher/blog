@@ -10,8 +10,7 @@ blogtags:
 ---
 
 <figure>
-<img src="/blog/pictures/53.jpg" alt="prada">
-<figcaption>Подпись</figcaption>
+<img style="width: 70%;" src="/blog/pictures/53.jpg" alt="prada">
 </figure>
 
 **Иногда бывает так:**
