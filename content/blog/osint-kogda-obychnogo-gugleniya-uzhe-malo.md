@@ -2,12 +2,13 @@
 title: "OSINT: когда обычного гугления уже мало"
 date: 2026-05-19T05:31:04+00:00
 slug: "osint-kogda-obychnogo-gugleniya-uzhe-malo"
-blogtags: - "осинт"
+blogtags:
+  - "осинт"
 aegea_id: 50
 ---
 
 <figure>
-<img style="width: 50%;" src="/blog/pictures/95.png" alt="">
+<img style="width: 90%;" src="/blog/pictures/95.png" alt="">
 </figure>
 
 Откуда берётся материал для хорошей статьи или исследования?
