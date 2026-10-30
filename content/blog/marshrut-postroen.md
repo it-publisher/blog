@@ -2,7 +2,8 @@
 title: "Маршрут построен"
 date: 2024-05-10T10:21:27+05:00
 slug: "marshrut-postroen"
-blogtags: - "мир живых людей"
+blogtags:
+  - "мир живых людей"
 aegea_id: 43
 ---
 

@@ -2,7 +2,8 @@
 title: "Мимолётность жизни"
 date: 2022-06-20T10:05:00+05:00
 slug: "mimolyotnost-zhizni"
-blogtags: - "мир живых людей"
+blogtags:
+  - "мир живых людей"
 aegea_id: 41
 ---
 

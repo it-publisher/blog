@@ -2,7 +2,8 @@
 title: "Принудительная остановка"
 date: 2021-02-08T09:58:00+05:00
 slug: "prinuditelnaya-ostanovka"
-blogtags: - "мир живых людей"
+blogtags:
+  - "мир живых людей"
 aegea_id: 38
 ---
 
